@@ -59,23 +59,23 @@
 </details>
 <br>
 
+<details open="">	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+
+  <p align="center">
+    <a href="https://github.com/meamitacharya">
+      <img  align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=meamitacharya&hide_border=true&theme=radical" />
+    </a>
+  
+   </p>
+</details>
 
 
 
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
 
-<!-- <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p> -->
 
 
 
