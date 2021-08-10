@@ -69,7 +69,7 @@
 
   <p align="center">
     <a href="https://github.com/meamitacharya">
-      <img  align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=meamitacharya&hide_border=true&theme=nord" />
+      <img  align="center" height="180em" src="https://github-streak-stat.herokuapp.com/?user=meamitacharya&hide_border=true&theme=nord" />
     </a>
   
    </p>
