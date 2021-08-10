@@ -52,10 +52,10 @@
 
 <p align="center">
   <a href="https://github.com/meamitacharya">
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=meamitacharya&show_icons=true&hide_border=true&theme=nord&count_private=true&include_all_commits=true"/>
+    <img align="center" width="400px" src="https://github-readme-stats-meamitacharya.vercel.app/api?username=meamitacharya&show_icons=true&hide_border=true&theme=nord&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/meamitacharya">
-    <img align="center" height="195px"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meamitacharya&theme=nord&langs_count=4&layout=compact&hide_border=true" />
+    <img align="center" height="195px"  width="400px" src="https://github-readme-stats-meamitacharya.vercel.app/api/top-langs/?username=meamitacharya&theme=nord&langs_count=4&layout=compact&hide_border=true" />
   </a>
   
 </p>
