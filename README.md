@@ -5,6 +5,8 @@
 
 <h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> I'm Amit Acharya</h1>
 
+
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 
@@ -12,6 +14,7 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: The first oranges weren’t orange.
+- 📫 How to reach me: **amitacharya975@gmail.com**
 
 ---
 
@@ -79,6 +82,10 @@
 <a target="_blank" href="https://amitacharya.com.np"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 <a target="_blank" href="https://twitter.com/meamitacharya"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a target="_blank" href="https://instagram.com/meamitacharya"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+
+ <!-- ![Profile Views](https://komarev.com/ghpvc/?username=meamitacharya) -->
+
 </p>
 
 <!-- 
