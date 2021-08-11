@@ -79,9 +79,9 @@
 
 <p align="center">
 <a  href="https://linkedin.com/in/meamitacharya"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://amitacharya.com.np"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-<a target="_blank" href="https://twitter.com/meamitacharya"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a target="_blank" href="https://instagram.com/meamitacharya"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://amitacharya.com.np"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+<a href="https://twitter.com/meamitacharya"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<a href="https://instagram.com/meamitacharya"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
  <!-- ![Profile Views](https://komarev.com/ghpvc/?username=meamitacharya) -->
