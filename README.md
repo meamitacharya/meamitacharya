@@ -63,7 +63,7 @@
 <br>
 
 <details open="">	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>☄️ GitHub Streaks</b></summary>
 
   <br />
 
